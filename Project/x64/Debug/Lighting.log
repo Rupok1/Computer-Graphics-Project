@@ -1,0 +1,936 @@
+﻿  main.cpp
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\directionalLight.h(128,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\cylinder.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\cylinder.h(191,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\cylinder.h(215,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\cylinder.h(217,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\cylinder.h(185,28): warning C4101: 'xz': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(45,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(56,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(57,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(58,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(59,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(451,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(451,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(451,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(454,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(454,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(454,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(454,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(455,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(455,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(455,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(455,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(461,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(461,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(461,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(461,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(463,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(463,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(463,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(463,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(464,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(464,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(464,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(464,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(465,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(465,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(465,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(465,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(465,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(467,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(467,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(467,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(467,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(468,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(468,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(468,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(468,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(470,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(470,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(470,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(470,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(471,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(471,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(471,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(471,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(473,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(473,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(473,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(473,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(474,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(474,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(474,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(474,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(475,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(475,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(475,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(475,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(475,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(487,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(487,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(487,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(487,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(488,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(488,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(488,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(488,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(489,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(489,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(489,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(489,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(489,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(491,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(491,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(491,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(491,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(492,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(492,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(492,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(492,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(494,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(494,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(494,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(494,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(495,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(495,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(495,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(495,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(497,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(497,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(497,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(497,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(498,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(498,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(498,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(498,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(499,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(499,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(499,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(499,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(499,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(508,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(508,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(508,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(508,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(508,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(511,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(511,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(511,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(511,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(512,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(512,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(512,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(512,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(513,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(513,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(513,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(513,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(513,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(516,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(516,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(516,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(516,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(517,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(517,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(517,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(517,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(517,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(518,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(518,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(518,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(518,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(518,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(520,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(520,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(520,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(520,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(521,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(521,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(521,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(521,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(521,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(522,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(522,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(522,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(522,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(522,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(524,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(524,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(524,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(524,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(524,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(526,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(526,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(526,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(526,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(527,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(527,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(527,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(527,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(527,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(528,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(528,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(528,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(528,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(529,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(529,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(529,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(529,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(529,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(530,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(530,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(530,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(530,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(530,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(539,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(539,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(539,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(539,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(540,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(540,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(540,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(540,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(541,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(541,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(541,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(541,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(759,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(763,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(768,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(844,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(854,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(854,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(854,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(855,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(855,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(855,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(856,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(856,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(856,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(857,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(857,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(857,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(858,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(858,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(858,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(859,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(859,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(859,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(860,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(860,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(860,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(866,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(866,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(867,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(867,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(867,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(867,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(868,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(868,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(868,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(868,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1149,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1149,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1149,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1149,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1149,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1150,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1150,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1150,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1150,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1150,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1151,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1151,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1151,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1151,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1151,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1154,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1154,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1154,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1154,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1154,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1157,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1157,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1157,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1157,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1158,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1158,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1158,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1158,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1159,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1159,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1159,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1159,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1161,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1162,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1163,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1170,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1171,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1173,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1174,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1175,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1179,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1179,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1179,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1179,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1179,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1180,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1180,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1180,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1180,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1180,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1181,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1181,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1181,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1181,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1181,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1182,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1182,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1182,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1182,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1182,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1185,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1185,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1185,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1185,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1185,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1186,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1186,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1186,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1186,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1186,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1187,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1187,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1187,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1187,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1187,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1193,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1195,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1195,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1195,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1195,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1195,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1196,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1196,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1196,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1196,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1196,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1198,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1198,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1198,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1198,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1198,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1199,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1199,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1199,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1199,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1199,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1200,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1200,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1200,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1200,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1200,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1207,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1208,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1208,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1208,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1208,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1210,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1210,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1210,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1210,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1210,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1211,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1211,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1211,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1211,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1211,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1212,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1212,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1212,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1212,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1212,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1219,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1220,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1222,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1223,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1228,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1234,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1235,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1237,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1238,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1242,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1247,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1248,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1250,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1251,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1254,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1258,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1259,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1261,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1262,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1265,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1269,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1270,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1272,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1273,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1276,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1279,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1280,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1282,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1283,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1286,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1290,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1291,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1293,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1294,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1297,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1809,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1809,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1809,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1812,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1812,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1812,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1813,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1813,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1813,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(1813,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2263,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2263,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2263,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2263,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2264,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2264,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2264,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2264,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2264,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2366,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2384,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2393,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2559,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2559,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2560,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2560,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2562,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2562,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2565,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2565,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2566,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2568,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2568,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2569,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2572,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2572,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2577,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2580,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2582,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2585,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2585,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2586,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2586,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2587,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2587,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2589,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2589,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2589,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2590,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2590,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2590,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2591,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2591,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2591,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2595,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2595,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2596,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2600,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2602,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2602,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2603,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2604,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2604,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2608,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2609,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2609,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2614,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2614,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2615,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2616,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2619,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2623,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2624,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2625,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2629,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2631,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2631,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2631,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2631,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2634,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2634,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2634,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2635,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2635,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2635,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2636,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2636,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2640,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2640,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2643,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2643,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2647,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2647,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2648,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2648,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2649,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2649,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2649,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2650,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2650,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2650,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2650,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2656,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2656,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2656,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2657,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2657,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2657,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2657,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2658,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2658,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2658,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2658,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2659,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2659,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2659,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2659,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2660,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2660,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2660,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2663,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2663,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2664,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2664,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2664,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2665,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2665,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2665,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2666,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2666,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2666,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2667,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2667,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2673,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2673,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2673,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2674,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2674,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2674,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2674,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2675,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2675,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2675,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2675,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2676,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2676,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2676,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2676,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2677,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2677,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2677,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2680,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2680,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2681,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2681,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2681,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2682,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2682,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2682,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2683,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2683,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2683,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2684,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2684,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2692,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2695,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2696,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2698,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2701,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2703,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2703,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2704,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2704,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2709,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2710,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2713,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2722,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2723,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2729,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2729,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2729,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2730,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2730,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2730,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2733,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2733,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2733,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2733,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2734,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2734,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2734,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2734,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2736,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2736,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2736,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2737,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2737,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2737,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2737,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2745,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2748,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2750,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2753,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2753,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2754,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2754,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2755,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2755,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2757,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2757,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2757,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2758,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2758,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2758,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2759,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2759,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2759,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2764,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2764,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2765,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2769,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2771,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2771,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2772,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2773,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2773,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2777,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2778,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2778,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2783,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2783,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2784,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2785,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2788,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2792,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2793,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2794,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2798,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2801,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2801,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2801,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2801,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2804,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2804,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2804,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2805,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2805,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2805,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2806,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2806,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2810,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2810,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2815,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2815,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2819,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2819,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2820,99): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2820,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2821,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2821,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2821,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2822,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2822,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2822,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2822,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2828,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2828,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2828,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2829,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2829,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2829,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2829,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2830,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2830,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2830,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2830,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2831,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2831,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2831,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2831,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2832,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2832,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2832,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2835,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2835,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2836,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2836,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2836,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2837,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2837,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2837,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2838,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2838,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2838,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2839,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2839,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2845,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2845,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2845,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2846,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2846,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2846,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2846,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2847,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2847,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2847,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2847,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2848,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2848,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2848,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2848,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2849,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2849,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2849,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2852,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2852,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2853,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2853,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2853,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2854,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2854,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2854,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2855,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2855,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2855,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2856,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2856,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2494,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2494,81): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2494,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2494,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2494,19): warning C4101: 'translateMatrix': unreferenced local variable
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2966,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2973,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2980,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2988,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2993,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(2998,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(3003,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(3008,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\main.cpp(3013,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  Lighting.vcxproj -> C:\Users\rupok\OneDrive\Desktop\CSE-4-2\2. Lab\Computer Grapics\Project\x64\Debug\Lighting.exe
